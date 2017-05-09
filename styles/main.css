@@ -34,7 +34,7 @@ navbar.logo {
 
 .hero-content .hero-title {
      position: absolute;             /* positioning will be explained in a resource */
-     top: 40%;                       /* positioning will be explained in a resource */
+     top: 40%;                       
      -webkit-transform: translateY(-50%);
      -moz-transform: translateY(-50%);
      -ms-transform: translateY(-50%);

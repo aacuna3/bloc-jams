@@ -64,13 +64,13 @@ navbar.logo {
 }
 
 /* #5 */
-.links-containter .navbar-link:hover {
-  color: rgb (233,50, 117);
+.links-container .navbar-link:hover {
+  color: rgb(233,50,117);
 }
 
-.links-containter .navbar-link:active {
+.links-container .navbar-link:active {
   background-color: white;
-  }
+}
 
 .container {
   maring: 0 auto;

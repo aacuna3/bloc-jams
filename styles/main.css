@@ -73,6 +73,10 @@ navbar.logo {
   max-width: 64rem;
 }
 
+.container.narrow {
+  max-width: 56rem;
+}
+
 /* Medium screens (640px) */
 @media (min-width: 640px) {
   html { font-size: 112%; }

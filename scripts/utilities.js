@@ -1,3 +1,5 @@
-function forEach (points) {
-  for (var i = 0; i < points.length; i++)
+function forEach (array, caller) {
+  for (var i = 0; i < array.length; i++) {
+      caller(array[i]);
+  }
 }
